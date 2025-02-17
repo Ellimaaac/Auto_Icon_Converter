@@ -2,7 +2,7 @@ import os
 from PIL import Image
 
 # Chemin du dossier parent contenant les sous-dossiers à traiter
-parent_dir = r"your_path_file"  # À adapter
+parent_dir = r"your_path_folder"  # À adapter
 
 # Extensions d'images à rechercher
 image_extensions = ['.png', '.jpg', '.jpeg']
